@@ -1,3 +1,4 @@
+#zadanieA
 import math
 
 #objetosc szescianu
@@ -15,3 +16,4 @@ def powierzchnia_szescianu(a):
 spodziewany_wynik = 4/3 * math.pi * (promien_kuli ** 3)
 
 assert oblicz_objetosc_kuli(promien_kuli) == spodziewany_wynik
+
